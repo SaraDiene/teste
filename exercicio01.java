@@ -18,6 +18,7 @@ public class exercicio01 {
         System.out.println("Nome 1: " + nome1);
         System.out.println("Nome 2: " + nome2);
         System.out.println("Nome 3: " + nome3);
+        System.out.println("Acabou");
 
         leitor.close();
 
