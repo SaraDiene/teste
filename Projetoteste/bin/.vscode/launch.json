@@ -1,0 +1,350 @@
+{
+    // Use o IntelliSense para saber mais sobre os atributos possíveis.
+    // Focalizar para exibir as descrições dos atributos existentes.
+    // Para obter mais informações, acesse: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Launch ex035",
+            "request": "launch",
+            "mainClass": "ex035",
+            "projectName": "Java"
+        },
+        {
+            "type": "java",
+            "name": "Launch ex034",
+            "request": "launch",
+            "mainClass": "ex034",
+            "projectName": "Java"
+        },
+        {
+            "type": "java",
+            "name": "Launch ex033",
+            "request": "launch",
+            "mainClass": "ex033",
+            "projectName": "Java"
+        },
+        {
+            "type": "java",
+            "name": "Launch ex032",
+            "request": "launch",
+            "mainClass": "ex032",
+            "projectName": "Java"
+        },
+        {
+            "type": "java",
+            "name": "Launch ex031",
+            "request": "launch",
+            "mainClass": "ex031",
+            "projectName": "Java"
+        },
+        {
+            "type": "java",
+            "name": "Launch ex030",
+            "request": "launch",
+            "mainClass": "ex030",
+            "projectName": "Java"
+        },
+        {
+            "type": "java",
+            "name": "Launch ex029",
+            "request": "launch",
+            "mainClass": "ex029",
+            "projectName": "Java"
+        },
+        {
+            "type": "java",
+            "name": "Launch ex028",
+            "request": "launch",
+            "mainClass": "ex028",
+            "projectName": "Java"
+        },
+        {
+            "type": "java",
+            "name": "Launch ex027",
+            "request": "launch",
+            "mainClass": "ex027",
+            "projectName": "Java"
+        },
+        {
+            "type": "java",
+            "name": "Launch ex026",
+            "request": "launch",
+            "mainClass": "ex026",
+            "projectName": "Java"
+        },
+        {
+            "type": "java",
+            "name": "Launch ex025",
+            "request": "launch",
+            "mainClass": "ex025",
+            "projectName": "Java"
+        },
+        {
+            "type": "java",
+            "name": "Launch ex024",
+            "request": "launch",
+            "mainClass": "ex024",
+            "projectName": "Java"
+        },
+        {
+            "type": "java",
+            "name": "Launch ex023",
+            "request": "launch",
+            "mainClass": "ex023",
+            "projectName": "Java"
+        },
+        {
+            "type": "java",
+            "name": "Launch ex022",
+            "request": "launch",
+            "mainClass": "ex022",
+            "projectName": "Java"
+        },
+        {
+            "type": "java",
+            "name": "Launch ex020",
+            "request": "launch",
+            "mainClass": "ex020",
+            "projectName": "Java"
+        },
+        {
+            "type": "java",
+            "name": "Launch ex019",
+            "request": "launch",
+            "mainClass": "ex019",
+            "projectName": "Java"
+        },
+        {
+            "type": "java",
+            "name": "Launch ex017",
+            "request": "launch",
+            "mainClass": "ex017",
+            "projectName": "Java"
+        },
+        {
+            "type": "java",
+            "name": "Launch ex012",
+            "request": "launch",
+            "mainClass": "ex012",
+            "projectName": "Java"
+        },
+        {
+            "type": "java",
+            "name": "Launch ex010",
+            "request": "launch",
+            "mainClass": "ex010",
+            "projectName": "Java"
+        },
+        {
+            "type": "java",
+            "name": "Launch OO",
+            "request": "launch",
+            "mainClass": "OO",
+            "projectName": "Java"
+        },
+        {
+            "type": "java",
+            "name": "Launch ex005pt2",
+            "request": "launch",
+            "mainClass": "ex005pt2",
+            "projectName": "Java_938fbe9"
+        },
+        {
+            "type": "java",
+            "name": "Launch ex018",
+            "request": "launch",
+            "mainClass": "ex018",
+            "projectName": "Java_938fbe9"
+        },
+        {
+            "type": "java",
+            "name": "Launch ex017",
+            "request": "launch",
+            "mainClass": "ex017",
+            "projectName": "Java_938fbe9"
+        },
+        {
+            "type": "java",
+            "name": "Launch ex016",
+            "request": "launch",
+            "mainClass": "ex016",
+            "projectName": "Java_938fbe9"
+        },
+        {
+            "type": "java",
+            "name": "Launch ex015",
+            "request": "launch",
+            "mainClass": "ex015",
+            "projectName": "Java_938fbe9"
+        },
+        {
+            "type": "java",
+            "name": "Launch ex014",
+            "request": "launch",
+            "mainClass": "ex014",
+            "projectName": "Java_938fbe9"
+        },
+        {
+            "type": "java",
+            "name": "Launch ex013",
+            "request": "launch",
+            "mainClass": "ex013",
+            "projectName": "Java_938fbe9"
+        },
+        {
+            "type": "java",
+            "name": "Launch teste",
+            "request": "launch",
+            "mainClass": "teste",
+            "projectName": "Java_938fbe9"
+        },
+        {
+            "type": "java",
+            "name": "Launch ex012",
+            "request": "launch",
+            "mainClass": "ex012",
+            "projectName": "Java_938fbe9"
+        },
+        {
+            "type": "java",
+            "name": "Launch ex011",
+            "request": "launch",
+            "mainClass": "ex011",
+            "projectName": "Java_938fbe9"
+        },
+        {
+            "type": "java",
+            "name": "Launch ex010",
+            "request": "launch",
+            "mainClass": "ex010",
+            "projectName": "Java_938fbe9"
+        },
+        {
+            "type": "java",
+            "name": "Launch ex009",
+            "request": "launch",
+            "mainClass": "ex009",
+            "projectName": "Java_938fbe9"
+        },
+        {
+            "type": "java",
+            "name": "Launch ex008",
+            "request": "launch",
+            "mainClass": "ex008",
+            "projectName": "Java_938fbe9"
+        },
+        {
+            "type": "java",
+            "name": "Launch ex007",
+            "request": "launch",
+            "mainClass": "ex007",
+            "projectName": "Java_938fbe9"
+        },
+        {
+            "type": "java",
+            "name": "Launch ex006",
+            "request": "launch",
+            "mainClass": "ex006",
+            "projectName": "Java_938fbe9"
+        },
+        {
+            "type": "java",
+            "name": "Launch ex005",
+            "request": "launch",
+            "mainClass": "ex005",
+            "projectName": "Java_938fbe9"
+        },
+        {
+            "type": "java",
+            "name": "Launch ex004",
+            "request": "launch",
+            "mainClass": "ex004",
+            "projectName": "Java_938fbe9"
+        },
+        {
+            "type": "java",
+            "name": "Launch ex003",
+            "request": "launch",
+            "mainClass": "ex003",
+            "projectName": "Java_938fbe9"
+        },
+        {
+            "type": "java",
+            "name": "Launch Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Launch App",
+            "request": "launch",
+            "mainClass": "App",
+            "projectName": "Java_938fbe9"
+        },
+        {
+            "type": "java",
+            "name": "Launch aulajar",
+            "request": "launch",
+            "mainClass": "aulajar",
+            "projectName": "Java_938fbe9"
+        },
+        {
+            "type": "java",
+            "name": "Launch ex001",
+            "request": "launch",
+            "mainClass": "ex001",
+            "projectName": "Java_938fbe9"
+        },
+        {
+            "type": "java",
+            "name": "Launch ex002",
+            "request": "launch",
+            "mainClass": "ex002",
+            "projectName": "Java_938fbe9"
+        },
+        {
+            "type": "java",
+            "name": "Launch exercicio01",
+            "request": "launch",
+            "mainClass": "exercicio01",
+            "projectName": "Java_938fbe9"
+        },
+        {
+            "type": "java",
+            "name": "Launch exercicio2",
+            "request": "launch",
+            "mainClass": "exercicio2",
+            "projectName": "Java_938fbe9"
+        },
+        {
+            "type": "java",
+            "name": "Launch exercicio3",
+            "request": "launch",
+            "mainClass": "exercicio3",
+            "projectName": "Java_938fbe9"
+        },
+        {
+            "type": "java",
+            "name": "Launch exercicio4",
+            "request": "launch",
+            "mainClass": "exercicio4",
+            "projectName": "Java_938fbe9"
+        },
+        {
+            "type": "java",
+            "name": "Launch exercicio5",
+            "request": "launch",
+            "mainClass": "exercicio5",
+            "projectName": "Java_938fbe9"
+        },
+        {
+            "type": "java",
+            "name": "Launch exercicio6",
+            "request": "launch",
+            "mainClass": "exercicio6",
+            "projectName": "Java_938fbe9"
+        }
+    ]
+}

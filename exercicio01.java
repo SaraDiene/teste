@@ -14,7 +14,7 @@ public class exercicio01 {
 
         System.out.println("Digite o terceiro nome: ");
         nome3 = leitor.nextLine();
-
+        
         System.out.println("Nome 1: " + nome1);
         System.out.println("Nome 2: " + nome2);
         System.out.println("Nome 3: " + nome3);
